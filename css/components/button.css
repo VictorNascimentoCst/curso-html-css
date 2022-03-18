@@ -1,0 +1,21 @@
+.button {
+    display: inline-block;
+    background-color: #fff;
+    color: black;
+    line-height: 60px;
+    padding: 06px 23px 23px 25px;
+    box-shadow: 8px 8px 0 black;
+    transition: transform 90ms linear;
+    width: 170px;
+    height: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+
+
+.button:hover {background-color: black;
+color: white;
+transform: scale(1.10);
+box-shadow: none;}
