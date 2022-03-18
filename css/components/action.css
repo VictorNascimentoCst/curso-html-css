@@ -1,0 +1,15 @@
+.action { color: #fff;
+    display: inline-flex;
+    align-items: center;
+    font-size: 20px;
+    font-family:"fira code";
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 30px;}
+
+.action::before {content: "";
+    
+    background-color: #fff;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;}
