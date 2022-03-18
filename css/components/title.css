@@ -2,3 +2,9 @@
     font-size: 48px;
 font-weight: 700;
 }
+
+
+.title.-second { 
+    color: rgb(2, 2, 2);
+    text-align: center;
+}
