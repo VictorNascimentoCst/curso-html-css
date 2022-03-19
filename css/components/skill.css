@@ -1,0 +1,17 @@
+.skill {
+    display: flex;
+    font-family:'fira-code', sans-serif;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.skill .icon {
+    margin-right: 25px;
+}
+
+.skill .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
