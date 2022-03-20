@@ -1,0 +1,8 @@
+.card-project {
+    display: flex;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    background-color: black;
+
+}

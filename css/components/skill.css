@@ -1,5 +1,6 @@
 .skill {
     display: flex;
+    align-items: center;
     font-family:'fira-code', sans-serif;
     color: #fff;
     font-size: 25px;
@@ -8,6 +9,7 @@
 
 .skill .icon {
     margin-right: 25px;
+    width: 90px;
 }
 
 .skill .right {
@@ -15,3 +17,4 @@
     flex-direction: column;
     justify-content: space-around;
 }
+

@@ -1,4 +1,4 @@
-.action { color: #fff;
+.header-action { color: #fff;
     display: inline-flex;
     align-items: center;
     font-size: 20px;
@@ -7,7 +7,7 @@
     text-decoration: none;
     margin-right: 30px;}
 
-.action::before {content: "";
+.header-action::before {content: "";
     
     background-color: #fff;
     width: 10px;

@@ -7,4 +7,5 @@ font-weight: 700;
 .main-title.-second { 
     color: rgb(255, 255, 255);
     text-align: center;
+    font-size: 60px;
 }
