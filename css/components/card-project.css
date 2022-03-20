@@ -1,9 +1,11 @@
-.card-project  {
-    display: flex;
-    align-items: center;
-    height: 300px;
-    width: 300px;
-    background-color: rgb(0, 0, 0);
-    
+.card-project   {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 300px;
+   height: 300px;
 
+}
+.section {
+    background-color: black;
 }
