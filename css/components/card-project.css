@@ -1,8 +1,9 @@
-.card-project {
+.card-project  {
     display: flex;
     align-items: center;
     height: 300px;
     width: 300px;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
+    
 
 }
