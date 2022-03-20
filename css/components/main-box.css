@@ -1,4 +1,4 @@
-.box {
+.main-box {
     background-color: #fff;
 display: inline-block;
     box-shadow: 10px 10px 0 black;
@@ -7,7 +7,7 @@ display: inline-block;
     
 
 }
-.box .title  {
+.main-box .title  {
     margin-bottom: 17px;
     margin-top: 0px;
 }
